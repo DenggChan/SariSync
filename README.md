@@ -23,6 +23,12 @@ Developed as a mini-capstone project for my second year of college, this system 
 - **SQL Server**: For database management and data storage.
 - **.NET Framework**: For building the application's UI and integrating with SQL Server.
 
+## Build and Run the Application:
+
+- Open the solution file InventoryProject.sln in Visual Studio.
+- Build the project (Build > Build Solution).
+- Run the application (Debug > Start Debugging).
+
 ## Contact
 
 - **Author**: Andrea Teves(https://github.com/DenggChan)
