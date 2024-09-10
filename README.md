@@ -23,11 +23,24 @@ Developed as a mini-capstone project for my second year of college, this system 
 - **SQL Server**: For database management and data storage.
 - **.NET Framework**: For building the application's UI and integrating with SQL Server.
 
-## Build and Run the Application:
+## To run the application locally, follow these steps:
 
-- Open the solution file InventoryProject.sln in Visual Studio.
-- Build the project (Build > Build Solution).
-- Run the application (Debug > Start Debugging).
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/DenggChan/SariSync.git
+   cd SariSync
+   
+Install Dependencies: Ensure that you have Visual Studio installed with the necessary components for C# development and SQL Server integration.
+
+Set Up the Database:
+Create a new SQL Server database.
+Update the connection string in App.config to point to your database.
+Build and Run the Application:
+
+Open the solution file InventoryProject.sln in Visual Studio.
+Build the project (Build > Build Solution).
+Run the application (Debug > Start Debugging).
+
 
 ## Contact
 
